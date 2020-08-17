@@ -2,7 +2,7 @@ Những thứ cần thiết để tạo bộ cài Hackintosh trên macOS và Win
 
 ### Tạo bộ cài Hackintosh trên macOS
 - Hackintosh Files: https://bit.ly/2PZpHkS
-Các phiên bản này down trực tiếp bằng App Store, chọn phiên bản nào là tuỳ lựa chọn của bạn
+# Các phiên bản này down trực tiếp bằng App Store, chọn phiên bản nào là tuỳ lựa chọn của bạn
 - macOS Catalina: https://apple.co/3iJOWE0
 - macOS Mojave: https://apple.co/3iKyF1x
 - macOS High Sierra: https://apple.co/3407Hiq
